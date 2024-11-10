@@ -1,0 +1,7 @@
+import numpy as numpy
+
+matrix = np.array ([5, 10, 15, 20], [25, 30, 35, 40], [ 45, 50, 55, 60], [65, 70, 75, 80])
+
+new_matrix = matrix[2:4, 2:4]
+
+print(new_matrix)
