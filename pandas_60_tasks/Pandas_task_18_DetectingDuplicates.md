@@ -1,0 +1,1 @@
+identifying dupilicates with the duplicate function

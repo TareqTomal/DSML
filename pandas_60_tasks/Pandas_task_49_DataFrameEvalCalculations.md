@@ -1,0 +1,3 @@
+This code demonstrates how to use the eval() method in pandas to perform element-wise calculations directly on DataFrame columns. The DataFrame has two columns, A and B, containing numeric values. The eval() method is used to create a new column, C, by evaluating the expression 'A + B * 2'. This expression calculates each element of column C as the sum of the corresponding value in column A and twice the value in column B.
+
+The use of eval() provides a concise and efficient way to perform operations involving multiple columns without requiring explicit iteration or manual indexing. This is particularly useful for complex calculations or when working with large datasets.
