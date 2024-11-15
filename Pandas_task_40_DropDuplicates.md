@@ -1,0 +1,1 @@
+if there is duplicate values in the dataset, then we can eleminate or drop the duplicates with the duplicate function. but with this function, there can be a huge loose of data.
